@@ -1,4 +1,10 @@
-# Kauri Sync
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VizzleTF/kauri/main/branding/kauri-icon-256.png" width="96" alt="Kauri Clip icon">
+</p>
+
+<h1 align="center">Kauri Sync</h1>
+
+<p align="center">The self-hosted, end-to-end encrypted sync server of Kauri Clip.</p>
 
 Kauri Sync is the sync server of [Kauri Clip](https://github.com/VizzleTF/kauri). It keeps snippets, and clipboard history if you turn it on, the same on your Windows and Mac devices. A change on one device reaches the others within a second. You run the server yourself; it needs only PostgreSQL.
 
